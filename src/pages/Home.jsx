@@ -7,7 +7,7 @@ export default function Home() {
       <p className="text-xl mb-8 text-center max-w-xl">Data Scientist | 1.5+ YOE | LLMs, GenAI, NLP | Python, SQL, AWS</p>
       <div className="flex gap-4">
         <a href="https://github.com/gaurisharan" target="_blank" className="bg-white text-black px-6 py-2 rounded-full hover:scale-105 transition">GitHub</a>
-        <a href="https://linkedin.com/in/gauri-sharan" target="_blank" className="bg-white text-black px-6 py-2 rounded-full hover:scale-105 transition">LinkedIn</a>
+        <a href="https://linkedin.com/in/gaurisharan" target="_blank" className="bg-white text-black px-6 py-2 rounded-full hover:scale-105 transition">LinkedIn</a>
         <a href="mailto:gaurisharan.work@gmail.com" className="bg-white text-black px-6 py-2 rounded-full hover:scale-105 transition">Email</a>
       </div>
     </section>
