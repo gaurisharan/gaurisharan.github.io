@@ -6,7 +6,7 @@ export default function Experience() {
       company: "NPCI",
       role: "Data Science Intern",
       duration: "Mar 2025 - Present",
-      description: "Built LLM to SQL translator, won SolveX hackathon. Worked with Google Pay, PhonePe, Billdesk."
+      description: "Built LLM to SQL translator, won SolveX hackathon. Created Reports for Google Pay, PhonePe, Billdesk, etc."
     },
     {
       company: "IIT Roorkee",
@@ -22,7 +22,7 @@ export default function Experience() {
     },
     {
       company: "Whiteswan Security",
-      role: "Cloud & Data Intern (Remote)",
+      role: "Cloud & Data Intern",
       duration: "Jul 2024 - Nov 2024",
       description: "Automated AWS infra using Boto3, Docker, and CI/CD pipelines."
     },
@@ -31,13 +31,13 @@ export default function Experience() {
       role: "Data Analyst Intern",
       duration: "Nov 2023 - May 2024",
       description: "Built analytics dashboards and insights for FutureSkills Prime."
-    }
+    },
     {
       company: "Sapphire Applications",
-      role: "Full Stack Developer (Fulltime)"
+      role: "Fuulltime Full Stack Developer",
       duration: "Oct 2022 - Oct 2023",
       description: "Worked on Fulldtack end-to-end projects with Django, Python etc."
-    }
+    },
   ]
   return (
     <div className="p-8">
