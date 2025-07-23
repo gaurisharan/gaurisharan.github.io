@@ -34,7 +34,7 @@ export default function Experience() {
     },
     {
       company: "Sapphire Applications",
-      role: "Fuulltime Full Stack Developer",
+      role: "Fulltime Full Stack Developer",
       duration: "Oct 2022 - Oct 2023",
       description: "Worked on Fulldtack end-to-end projects with Django, Python etc."
     },
