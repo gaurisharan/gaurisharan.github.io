@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className="space-x-4">
         <Link to="/">Home</Link>
         <Link to="/projects">Projects</Link>
-        <Link to="/experience">Experience (All Paid Work)</Link>
+        <Link to="/experience">Experience</Link>
         <Link to="/skills">Skills</Link>
         <Link to="/contact">Contact</Link>
       </div>

@@ -41,7 +41,7 @@ export default function Experience() {
   ]
   return (
     <div className="p-8">
-      <h2 className="text-3xl font-bold mb-6">Experience</h2>
+      <h2 className="text-3xl font-bold mb-6">Experience (All Paid Work)</h2>
       {exp.map((e, i) => (
         <div key={i} className="mb-4 p-4 bg-white rounded-xl shadow">
           <h3 className="text-xl font-semibold">{e.role} @ {e.company}</h3>
