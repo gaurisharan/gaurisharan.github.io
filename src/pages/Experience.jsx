@@ -3,28 +3,34 @@ import React from 'react'
 export default function Experience() {
   const exp = [
     {
+      company: "Whiteswan Identity Security",
+      role: "Software Dev Engineer",
+      duration: "Nov 2025 - Present",
+      description: "Working on implementing security modules in MCP and A2A protocol architectures"
+    },
+    {
       company: "National Payments Corporation of India (NPCI)",
-      role: "Data Science Intern",
+      role: "Data Science Trainee",
       duration: "Mar 2025 - August 2025",
-      description: "Built LLM to SQL translator, won SolveX hackathon. Created Reports for Google Pay, PhonePe, Billdesk, etc."
+      description: "Built Natural Language to SQL LLM translator, won SolveX hackathon. Created Reports for Google Pay, PhonePe, Billdesk, etc."
     },
     {
       company: "IIT Roorkee",
-      role: "AI Research Intern",
+      role: "AI Research Junior Assistant",
       duration: "Dec 2024 - Feb 2025",
-      description: "Worked on RAG, Vision Language Models, and finetuning at PARIMAL Labs."
+      description: "Worked on RAG, Vision Language Models, and finetuning at PARIMAL Labs. Also collaborated with IIIT Delhi on LLM projects."
     },
     {
-      company: "Multiple Remote Orgs",
-      role: "Independent Projects",
-      duration: "Oct 2022 - Present",
-      description: "Automated AWS infra using Boto3, Docker, and CI/CD pipelines. Trained LLMs with RLHF, focused on Python/SQL code generation. Worked on Fulldtack end-to-end projects with Django, Python etc."
+      company: "Whiteswan Identity Security",
+      role: "SDE Cloud Intern",
+      duration: "Jul 2024 - Nov 2024",
+      description: "Automated AWS infra using Boto3, Docker, and CI/CD pipelines."
     },
     {
       company: "NASSCOM",
       role: "Data Analyst Intern",
       duration: "Nov 2023 - May 2024",
-      description: "Built analytics dashboards and insights for FutureSkills Prime."
+      description: "Worked on ML and statistical analytics for FutureSkills Prime."
     },
   ]
   return (
